@@ -30,5 +30,5 @@ int main(int argc, char **argv) {
   if (err != 0)
     printf("Error! kill returned a value != 0\n");
 
-  return ret;
+  return err;
 }
