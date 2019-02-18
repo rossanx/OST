@@ -1,6 +1,8 @@
 /*
  * Author: rossano at gmail dot com
  * Timestamp: Mon Feb 18 15:37:22 -03 2019
+ * 
+ * This program sends a signal to a process. It's supposed to mimic the "kill" *nix command. This is a VERY SIMPLE version of kill. 
  */
 
 #include <stdio.h>     // printf
