@@ -1,0 +1,3 @@
+# OST
+
+Operating System Tools - This repository aims to build, for educational purposes, some tools available at *nix systems, such as kill, ps, ifconfig,...
